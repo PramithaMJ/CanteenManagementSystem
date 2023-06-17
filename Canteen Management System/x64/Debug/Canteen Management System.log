@@ -1,0 +1,6 @@
+﻿  Canteen Management System.cpp
+D:\OneDrive_Univesity Mail\OneDrive - engug.ruh.ac.lk\Accademic e22\Semester 3\DATA STRUCTURES\Project\EE3302_3892_3895_3990_34\Canteen Management System\admin.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\OneDrive_Univesity Mail\OneDrive - engug.ruh.ac.lk\Accademic e22\Semester 3\DATA STRUCTURES\Project\EE3302_3892_3895_3990_34\Canteen Management System\admin.h(200): warning C4715: 'Admin::admin': not all control paths return a value
+D:\OneDrive_Univesity Mail\OneDrive - engug.ruh.ac.lk\Accademic e22\Semester 3\DATA STRUCTURES\Project\EE3302_3892_3895_3990_34\Canteen Management System\linkedList.h(200): warning C4715: 'Linked_list::searchIfRegister': not all control paths return a value
+  LINK : D:\OneDrive_Univesity Mail\OneDrive - engug.ruh.ac.lk\Accademic e22\Semester 3\DATA STRUCTURES\Project\EE3302_3892_3895_3990_34\x64\Debug\Canteen Management System.exe not found or not built by the last incremental link; performing full link
+  Canteen Management System.vcxproj -> D:\OneDrive_Univesity Mail\OneDrive - engug.ruh.ac.lk\Accademic e22\Semester 3\DATA STRUCTURES\Project\EE3302_3892_3895_3990_34\x64\Debug\Canteen Management System.exe
